@@ -1,60 +1,60 @@
 [33mcommit b2c296a0ec190dd35568e039b3e2c3029c8b36df[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 19:22:31 2024 +0200
 
     Update main.js
 
 [33mcommit 6ebaeee352896beb6ce641bb15d18e6ea904a637[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 19:21:41 2024 +0200
 
     Update getting-started.html
 
 [33mcommit d0771b2e15ab03b4884f45d077a10fa7adcde7b4[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 18:33:24 2024 +0200
 
     Update main.js
 
 [33mcommit f1b2ffcd93960228687d7b7d2f7ae06a4f6e399a[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:34:09 2024 +0200
 
     Update footer-js.html
 
 [33mcommit fa376aba695ae2c65c0919d404ea5884391ebbce[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:29:01 2024 +0200
 
     Update main.js
 
 [33mcommit e4f549d62ebce1149fedfed59c0ef57107d4a134[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:26:15 2024 +0200
 
     Update footer-js.html
 
 [33mcommit 39cc84c54ccbe1d544ed88568c5a4d991fbcb8e8[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:07:04 2024 +0200
 
     Update main.js
 
 [33mcommit 5d0f2f98d44d817028e0ad980f1b2007f748fce8[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:06:09 2024 +0200
 
     Update footer-menu.html
 
 [33mcommit 9314dbfc6df091d753eafbac0e38aee18696f7e9[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 17:03:47 2024 +0200
 
     Update main.js
 
 [33mcommit 4cb098ad3195232e164f80dd7440ff4bb4f577e9[m
 Merge: e7af6229 37a9560b
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 16:42:13 2024 +0200
 
     Merge pull request #4180 from siim-m/add-coldcard-q
@@ -62,38 +62,38 @@ Date:   Thu Aug 8 16:42:13 2024 +0200
     Add Coldcard Q
 
 [33mcommit e7af62294252dc0721bcc9f74eba1ea756c4efcd[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 11:49:40 2024 +0200
 
     Update footer-js.html
 
 [33mcommit c2814c7e13c78d8e435fe04133854891b3268826[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 11:24:31 2024 +0200
 
     Update main.js
 
 [33mcommit 6bee90b5ef218e757344bd86c1e5e17e08e20be6[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 11:22:33 2024 +0200
 
     Update head-menu.html
 
 [33mcommit 8cb598ee5281dd018af3581b410d04ea06ba9085[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Thu Aug 8 11:19:05 2024 +0200
 
     Update main.js
 
 [33mcommit 77b248ae468f7a8a7550b77ddecabc400f19e38d[m
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Wed Aug 7 23:30:45 2024 +0200
 
     Update index.html
 
 [33mcommit 07b190f8342ac7f6a6c6027f9ea9113a104d3ac7[m
 Merge: 74cbd36f 02cd8c6a
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Tue Jul 16 21:17:31 2024 +0200
 
     Merge pull request #4246 from horizontalsystems/master
@@ -193,7 +193,7 @@ Date:   Wed Apr 10 14:17:19 2024 +0300
 
 [33mcommit 74cbd36f693a2b708c746c44b12e2a6a7bcad74d[m
 Merge: ec76da81 03083401
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Wed Jul 3 21:42:44 2024 +0200
 
     Merge pull request #4241 from Arvin21M/patch-1
@@ -202,7 +202,7 @@ Date:   Wed Jul 3 21:42:44 2024 +0200
 
 [33mcommit ec76da814cfc742437bd92839f5109399f444f14[m
 Merge: 0283bc0a fa940802
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Wed Jul 3 21:42:13 2024 +0200
 
     Merge pull request #4179 from omerskywalker/seedsigner
@@ -226,7 +226,7 @@ Date:   Sat Jun 29 17:21:39 2024 -0500
 
 [33mcommit 0283bc0a06e421f073a058ba94c4f784f56ab9d9[m
 Merge: c2bd5157 b79b9c31
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Sun Jun 30 00:19:50 2024 +0200
 
     Merge pull request #4235 from crwatkins/update-coldcard-description
@@ -235,7 +235,7 @@ Date:   Sun Jun 30 00:19:50 2024 +0200
 
 [33mcommit c2bd51571b404ba3e08bcd9b54117b6ced347974[m
 Merge: 748e46d2 9f516910
-Author: Cøbra <domain@bitcoin.org>
+Author: Cøbra <domain@btig.org>
 Date:   Sun Jun 30 00:19:28 2024 +0200
 
     Merge pull request #4237 from crwatkins/schema-env-score-diy
